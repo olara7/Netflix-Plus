@@ -1,7 +1,7 @@
 # Netflix-Plus
 Tutorial Project to learn programmatic swift coding
 
-Overview: This is a tutorial project that I made to learn programmatic swift coding. The movies and tv shows are fetched from the TDBMovies API.
+Overview: This is a tutorial project to learn programmatic swift coding. The movies and tv shows are fetched from the TDBMovies API.
   The trailer video is implemented using WKWebView. The trailer is fetched from youtube by using the YoutubeAPI to search for the title and adding trailer
   to the search. We then retreive and use the first result we get from the array of videos.
 
