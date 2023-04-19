@@ -13,6 +13,10 @@ User Stories:
 - User can view movie trailer from youtube
 
 <img width="400" alt="Screen Shot 2023-04-18 at 7 23 12 PM" src="https://user-images.githubusercontent.com/54912970/232950160-c66edfd9-31fe-430a-b932-97878377c012.png"><img width="400" alt="Screen Shot 2023-04-18 at 7 24 10 PM" src="https://user-images.githubusercontent.com/54912970/232950277-f5ade687-ed06-40b0-b6aa-971f24314ac3.png">
+<img width="389" alt="Screen Shot 2023-04-18 at 9 44 55 PM" src="https://user-images.githubusercontent.com/54912970/232969133-6429659b-e2bd-48a6-b8be-cf5f8d59218f.png"><img width="389" alt="Screen Shot 2023-04-18 at 9 45 25 PM" src="https://user-images.githubusercontent.com/54912970/232969178-47dece95-bf8c-4116-aa65-78d8713899db.png">
+
+
+
 
 
 ![Screen Shot 2022-05-28 at 7 05 27 PM](https://user-images.githubusercontent.com/54912970/170849033-9b531604-70ed-4ea0-be5c-4884ea54a3e7.png)
